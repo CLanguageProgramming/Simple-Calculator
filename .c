@@ -60,29 +60,29 @@ int main()
 int add(int n1, int n2)
 {
   int add0 = n1 + n2;
-  return add0
+  return add0;
 }
 
 int sub(int n1, int n2)
 {
   int sub0 = n1 - n2;
-  return sub0
+  return sub0;
 }
 
 int mul(int n1, int n2)
 {
   int mul0 = n1 * n2;
-  return mul0
+  return mul0;
 }
 
 int div(int n1, int n2)
 {
   int div0 = n1 / n2;
-  return div0
+  return div0;
 }
 
 int mod(int n1, int n2)
 {
   int mod0 = n1 % n2;
-  return mod0
+  return mod0;
 }
